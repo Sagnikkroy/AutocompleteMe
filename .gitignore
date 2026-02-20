@@ -1,2 +1,7 @@
-Dataset
-.vscode
+# Folders
+Dataset/
+.vscode/
+
+# Specific files
+hf.py
+
