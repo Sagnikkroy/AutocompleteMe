@@ -6,8 +6,7 @@
 ██║  ██║╚██████╔╝   ██║   ╚██████╔╝╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ███████╗███████╗   ██║   ███████╗    ██║ ╚═╝ ██║███████╗
 ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚══════╝╚══════╝   ╚═╝   ╚══════╝    ╚═╝     ╚═╝╚══════╝                                                                                </pre>  
 
-
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Sagnikroy/AutocompleteMe)
 ## Autocomplete Me is a Python project I built to replicate the autocomplete behavior you see in modern systems like Google, Apple's typing suggestions.
 
 The main goal of this project is to predict the next likely characters or words based on what’s already typed basically teaching a model how to guess your thoughts mid-sentence.
